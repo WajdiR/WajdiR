@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-<!--
-**WajdiR/WajdiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi 👋 My name is Wajdi Riahi
+A passionate software developer who loves making beautiful, functional web applications using modern workflows. Specialize in JavaScript & React, but have experience with other technologies such as Redux, Sass, Bootstrap & Git. Enjoy continuously sharpening existing skills, as well as learning new technologies & languages. Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
