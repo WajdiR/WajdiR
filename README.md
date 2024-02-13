@@ -1,9 +1,10 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Wajdi&label=Profile%20Views&color=6&icon=0&pretty=false" />
-</a>
 
 <h1 align="center">Hi 👋, I'm Wajdi Riahi</h1>
 <h3 align="center">Full Stack Developer</h3>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Wajdi&label=Profile%20Views&color=6&icon=0&pretty=false" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
